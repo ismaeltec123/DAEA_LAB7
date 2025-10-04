@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\5c24c\\Demo07CapasC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D827A6D8-5AB1-4125-8CB3-210886522AC2}|Entity\\Entity.csproj|d:\\5c24c\\demo07capasc\\entity\\costumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D827A6D8-5AB1-4125-8CB3-210886522AC2}|Entity\\Entity.csproj|solutionrelative:entity\\costumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D827A6D8-5AB1-4125-8CB3-210886522AC2}|Entity\\Entity.csproj|d:\\5c24c\\demo07capasc\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D827A6D8-5AB1-4125-8CB3-210886522AC2}|Entity\\Entity.csproj|solutionrelative:entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB6FEA5-F027-4825-ACFC-3C4C936439E7}|Demo07CapasC\\Demo07CapasC.csproj|d:\\5c24c\\demo07capasc\\demo07capasc\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB6FEA5-F027-4825-ACFC-3C4C936439E7}|Demo07CapasC\\Demo07CapasC.csproj|solutionrelative:demo07capasc\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB6FEA5-F027-4825-ACFC-3C4C936439E7}|Demo07CapasC\\Demo07CapasC.csproj|d:\\5c24c\\demo07capasc\\demo07capasc\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8FB6FEA5-F027-4825-ACFC-3C4C936439E7}|Demo07CapasC\\Demo07CapasC.csproj|solutionrelative:demo07capasc\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8305EF-FF1D-486C-9812-8D275ECB475B}|Data\\Data.csproj|d:\\5c24c\\demo07capasc\\data\\dcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8305EF-FF1D-486C-9812-8D275ECB475B}|Data\\Data.csproj|solutionrelative:data\\dcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5E9F07-523D-437A-913C-963BE01ECC7A}|Business\\Business.csproj|d:\\5c24c\\demo07capasc\\business\\bcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5E9F07-523D-437A-913C-963BE01ECC7A}|Business\\Business.csproj|solutionrelative:business\\bcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5E9F07-523D-437A-913C-963BE01ECC7A}|Business\\Business.csproj|d:\\5c24c\\demo07capasc\\business\\bproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5E9F07-523D-437A-913C-963BE01ECC7A}|Business\\Business.csproj|solutionrelative:business\\bproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8305EF-FF1D-486C-9812-8D275ECB475B}|Data\\Data.csproj|d:\\5c24c\\demo07capasc\\data\\dproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8305EF-FF1D-486C-9812-8D275ECB475B}|Data\\Data.csproj|solutionrelative:data\\dproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8305EF-FF1D-486C-9812-8D275ECB475B}|Data\\Data.csproj|d:\\5c24c\\demo07capasc\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8305EF-FF1D-486C-9812-8D275ECB475B}|Data\\Data.csproj|solutionrelative:data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB6FEA5-F027-4825-ACFC-3C4C936439E7}|Demo07CapasC\\Demo07CapasC.csproj|d:\\5c24c\\demo07capasc\\demo07capasc\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FB6FEA5-F027-4825-ACFC-3C4C936439E7}|Demo07CapasC\\Demo07CapasC.csproj|solutionrelative:demo07capasc\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB6FEA5-F027-4825-ACFC-3C4C936439E7}|Demo07CapasC\\Demo07CapasC.csproj|d:\\5c24c\\demo07capasc\\demo07capasc\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8FB6FEA5-F027-4825-ACFC-3C4C936439E7}|Demo07CapasC\\Demo07CapasC.csproj|solutionrelative:demo07capasc\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D827A6D8-5AB1-4125-8CB3-210886522AC2}|Entity\\Entity.csproj|d:\\5c24c\\demo07capasc\\entity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D827A6D8-5AB1-4125-8CB3-210886522AC2}|Entity\\Entity.csproj|solutionrelative:entity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5E9F07-523D-437A-913C-963BE01ECC7A}|Business\\Business.csproj|d:\\5c24c\\demo07capasc\\business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5E9F07-523D-437A-913C-963BE01ECC7A}|Business\\Business.csproj|solutionrelative:business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\5c24c\\Demo07CapasC\\Demo07CapasC\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Demo07CapasC\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\5c24c\\Demo07CapasC\\Demo07CapasC\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Demo07CapasC\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAuwKYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:00:20.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BCustomer.cs",
+              "DocumentMoniker": "D:\\5c24c\\Demo07CapasC\\Business\\BCustomer.cs",
+              "RelativeDocumentMoniker": "Business\\BCustomer.cs",
+              "ToolTip": "D:\\5c24c\\Demo07CapasC\\Business\\BCustomer.cs",
+              "RelativeToolTip": "Business\\BCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:58:30.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DCustomer.cs",
+              "DocumentMoniker": "D:\\5c24c\\Demo07CapasC\\Data\\DCustomer.cs",
+              "RelativeDocumentMoniker": "Data\\DCustomer.cs",
+              "ToolTip": "D:\\5c24c\\Demo07CapasC\\Data\\DCustomer.cs",
+              "RelativeToolTip": "Data\\DCustomer.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:58:00.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Costumer.cs",
+              "DocumentMoniker": "D:\\5c24c\\Demo07CapasC\\Entity\\Costumer.cs",
+              "RelativeDocumentMoniker": "Entity\\Costumer.cs",
+              "ToolTip": "D:\\5c24c\\Demo07CapasC\\Entity\\Costumer.cs",
+              "RelativeToolTip": "Entity\\Costumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:57:29.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\5c24c\\Demo07CapasC\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "Entity\\Product.cs",
+              "ToolTip": "D:\\5c24c\\Demo07CapasC\\Entity\\Product.cs",
+              "RelativeToolTip": "Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:49:53.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\5c24c\\Demo07CapasC\\Entity\\Class1.cs",
+              "RelativeDocumentMoniker": "Entity\\Class1.cs",
+              "ToolTip": "D:\\5c24c\\Demo07CapasC\\Entity\\Class1.cs",
+              "RelativeToolTip": "Entity\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:49:52.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\5c24c\\Demo07CapasC\\Demo07CapasC\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Demo07CapasC\\MainWindow.xaml",
+              "ToolTip": "D:\\5c24c\\Demo07CapasC\\Demo07CapasC\\MainWindow.xaml",
+              "RelativeToolTip": "Demo07CapasC\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-04T15:49:48.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\5c24c\\Demo07CapasC\\Demo07CapasC\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Demo07CapasC\\AssemblyInfo.cs",
+              "ToolTip": "D:\\5c24c\\Demo07CapasC\\Demo07CapasC\\AssemblyInfo.cs",
+              "RelativeToolTip": "Demo07CapasC\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:49:47.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\5c24c\\Demo07CapasC\\Demo07CapasC\\App.xaml",
+              "RelativeDocumentMoniker": "Demo07CapasC\\App.xaml",
+              "ToolTip": "D:\\5c24c\\Demo07CapasC\\Demo07CapasC\\App.xaml",
+              "RelativeToolTip": "Demo07CapasC\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-04T15:49:45.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BProduct.cs",
+              "DocumentMoniker": "D:\\5c24c\\Demo07CapasC\\Business\\BProduct.cs",
+              "RelativeDocumentMoniker": "Business\\BProduct.cs",
+              "ToolTip": "D:\\5c24c\\Demo07CapasC\\Business\\BProduct.cs",
+              "RelativeToolTip": "Business\\BProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:49:32.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DProduct.cs",
+              "DocumentMoniker": "D:\\5c24c\\Demo07CapasC\\Data\\DProduct.cs",
+              "RelativeDocumentMoniker": "Data\\DProduct.cs",
+              "ToolTip": "D:\\5c24c\\Demo07CapasC\\Data\\DProduct.cs",
+              "RelativeToolTip": "Data\\DProduct.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:40:31.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\5c24c\\Demo07CapasC\\Data\\Class1.cs",
+              "RelativeDocumentMoniker": "Data\\Class1.cs",
+              "ToolTip": "D:\\5c24c\\Demo07CapasC\\Data\\Class1.cs",
+              "RelativeToolTip": "Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:40:29.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\5c24c\\Demo07CapasC\\Business\\Class1.cs",
+              "RelativeDocumentMoniker": "Business\\Class1.cs",
+              "ToolTip": "D:\\5c24c\\Demo07CapasC\\Business\\Class1.cs",
+              "RelativeToolTip": "Business\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:49:35.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
